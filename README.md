@@ -50,4 +50,6 @@ Reach out to martinle348@gmail.com if you have any questions!
 
 ![game](screenshots/game_screenshot.png)
 
+![death](screenshots/death_screeenshot.png)
+
 ![end](screenshots/end_screenshot.png)
