@@ -12,8 +12,8 @@ monsters you’ll face, then see how quickly you can escape without leaving any 
 - **Settings** Use your **MOUSE** to adjust the number of monsters, start the game, go back, or exit
 - **Movement:** Use the **ARROW KEYS** to move your character up, down, left, and right
 - **Objective:** Navigate the maze, collect chests, avoid monsters and reach the exit door
-- **Chests:** Find and open chests to increase your score
-- **Monsters:** Collision with a monster results in a lost life displayed at the bottom of the screen
+- **Chests:** Find and open chests to increase your score (displayed next to the coin)
+- **Monsters:** Coming into contact with a monster costs you a life (displayed next to the heart)
 - **Restart:** If you die, press **ENTER** to restart the game
 
 
