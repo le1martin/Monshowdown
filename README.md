@@ -17,28 +17,6 @@ monsters you’ll face, then see how quickly you can escape without leaving any 
 - **Restart:** If you die, press **ENTER** to restart the game
 
 
-# Features
-* Background music and sound effects to enhance the experience
-
-* Maze with multiple tile types and animated sprites
-
-* Various enemies with randomized spawning
-
-* Collectible chests scattered throughout the maze
-
-* Settings menu to customize the number of monsters spawned
-
-* Restart functionality
-
-
-# Assets
-* Player and enemy sprites
-
-* Animated coins, hourglass, and hearts
-
-* Background music and sound effects
-
-
 # Contact
 Reach out to martinle348@gmail.com if you have any questions!
 
