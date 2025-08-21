@@ -1,10 +1,10 @@
 
-# Welcome to Monshowdown!
+# Enter Monshowdown!
 
 # Description
 Monshowdown throws you into a thrilling maze challenge where every turn counts. Navigate your way to the exit, 
-avoid monsters and grab treasure chests to rack up points. Customize the difficulty by choosing how many monsters
-you’ll face, then see if you can escape the maze fast without leaving any treasure behind.
+avoid monsters and capture treasure chests to rack up points. Customize the difficulty by choosing how many 
+monsters you’ll face, then see how quickly you can escape without leaving any treasure behind.
 
 
 # How to Play
