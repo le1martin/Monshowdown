@@ -1,5 +1,5 @@
 
-# Enter Monshowdown!
+# Monshowdown
 
 # Description
 Monshowdown throws you into a thrilling maze challenge where every turn counts. Navigate your way to the exit, 
